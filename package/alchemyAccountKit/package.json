@@ -34,13 +34,14 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "prettier": "^2.8.4",
-    "typescript": "^5.3.3"
+    "typescript": "^5.4.2"
   },
   "dependencies": {
-    "@alchemy/aa-accounts": "^2.4.0",
-    "@alchemy/aa-alchemy": "^2.4.0",
-    "@alchemy/aa-core": "^2.3.1",
+    "@alchemy/aa-accounts": "^3.5.1",
+    "@alchemy/aa-alchemy": "^3.5.1",
+    "@alchemy/aa-core": "^3.5.1",
+    "@alchemy/aa-signers": "^3.5.1",
     "dotenv": "^16.4.5",
-    "viem": "^1.21.4"
+    "viem": "^2.8.11"
   }
 }
